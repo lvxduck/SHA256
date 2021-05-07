@@ -29,6 +29,5 @@ int main()
 	printf("Enter text: ");
 	gets(text);
 	sha256(text);
-	// sha256_test();
 	return (0);
 }
